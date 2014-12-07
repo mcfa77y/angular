@@ -1,8 +1,6 @@
-
-<style>
 .done-true {
   text-decoration: line-through;
   color: grey;
 }
-
-</style>
+li {list-style-type: none;}
+ul {padding-left: 20px;}
